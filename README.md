@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a final-year B.Tech CSE student passionate about building innovative AI and cloud-based solutions. With practical experience in Artificial Intelligence, Machine Learning, AWS Cloud Architecture, and secure distributed systems, I love solving real-world problems with scalable technology.
+I'm a final-year B.Tech CSE student building innovative AI and cloud-based solutions. With practical experience in Artificial Intelligence, Machine Learning, AWS Cloud Architecture, and secure distributed systems, I love solving real-world problems with scalable technology.
 
 - 🏅 **Google Developers AI/ML Externship Graduate**
 - ☁️ **AWS Solutions Architecture Certified**
