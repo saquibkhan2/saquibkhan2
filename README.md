@@ -53,9 +53,6 @@ Designed a privacy-first federated learning system with robust encryption and re
 - Modern, interactive developer portfolio.  
 - Integrated AI chatbot for instant Q&A and project navigation.
 
-[![Portfolio](https://img.icons8.com/fluency/48/folder-invoices.png)](https://saquibkhan2.github.io/portfolio/)  
-*Click the folder icon above to view my portfolio website!*
-
 ### 🌐 [Website Scraping Automation](https://github.com/saquibkhan2/website-scraping)
 **Python | BeautifulSoup | Selenium**  
 - Robust tools for structured/unstructured data extraction.  
