@@ -85,10 +85,7 @@ _Remote | Aug 2023 – Nov 2023_
 ## 🏅 Achievements & Leadership
 
 - **Board Member & Operations Lead, [Enactus VIT Chennai](https://enactusvitc.com/)** (Mar 2023 – Jul 2024)  
-  Led social entrepreneurship projects, managed teams of 15+ members, and received the Young Entrepreneurial Leadership Award and Most Voted Video Award at Enactus India 2023.
-- **Award Winner:**  
-  - Young Entrepreneurial Leadership Award  
-  - Most Voted Video Award at Enactus India National Competition
+  Led social entrepreneurship projects, managed teams of 15+ members, and received the **Young Entrepreneurial Leadership Award** and **Most Voted Video Award** at **Enactus India 2023**.
 
 ---
 
