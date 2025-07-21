@@ -2,7 +2,7 @@
 
 **AI/ML Engineer | Cloud Solutions Architect | Python Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/saquibkhan2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/saquibkhan2](https://www.linkedin.com/in/saquib-iqbal-khan-264641283/))
 [![Email](https://img.shields.io/badge/Email-saquib44.khan@gmail.com-red?logo=gmail)](mailto:saquib44.khan@gmail.com)
 
 ---
