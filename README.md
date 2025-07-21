@@ -2,8 +2,9 @@
 
 **AI/ML Engineer | Cloud Solutions Architect | Python Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/saquibkhan2](https://www.linkedin.com/in/saquib-iqbal-khan-264641283/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/saquib-iqbal-khan-264641283/)
 [![Email](https://img.shields.io/badge/Email-saquib44.khan@gmail.com-red?logo=gmail)](mailto:saquib44.khan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?logo=github)](https://saquibkhan2.github.io/MY-Portfolio/)
 
 ---
 
@@ -94,7 +95,7 @@ _Remote | Aug 2023 – Nov 2023_
 - [Weapon Detection](https://github.com/saquibkhan2/weapon-detection) – Real-time security solution using YOLOv8 & OpenCV
 - [Federated Learning Framework](https://github.com/saquibkhan2/federated-learning-framework) – Privacy-preserving distributed ML
 - [Website Scraping](https://github.com/saquibkhan2/website-scraping) – Automated data extraction tools
-- [Personal Portfolio](https://github.com/saquibkhan2/portfolio) – Modern developer website with AI chatbot
+- [Personal Portfolio](https://saquibkhan2.github.io/MY-Portfolio/) – Modern developer website with AI chatbot (deployed version)
 - [Algorithmic Trading System](https://github.com/saquibkhan2/algorithmic-trading-ml) – Automated trading with ML & analytics
 - And more on [my GitHub profile](https://github.com/saquibkhan2)!
 
@@ -104,6 +105,6 @@ _Remote | Aug 2023 – Nov 2023_
 
 ### 📈 **Ready to elevate your AI/ML team?**
 - Let’s connect for freelance, internships, or full-time roles!
-- [Message me on LinkedIn](https://www.linkedin.com/in/saquibkhan2) or [email](mailto:saquib44.khan@gmail.com) for collaboration, hiring, or project discussions.
+- [Message me on LinkedIn](https://www.linkedin.com/in/saquib-iqbal-khan-264641283/) or [email](mailto:saquib44.khan@gmail.com) for collaboration, hiring, or project discussions.
 
 **Let’s build the future of AI together!**
